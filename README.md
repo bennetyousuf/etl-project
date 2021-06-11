@@ -26,7 +26,7 @@ The Jupyter Notebook in this repository details the following steps:
 - The type of final production database to load the data into (relational or non-relational).
 - The final tables or collections that will be used in the production database.
 
-## Data Cleanup & Analysis
+## Project Report
 
 The Jupyter notebook within this repository describes the following:
 
